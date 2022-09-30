@@ -48,3 +48,8 @@ N-Gram as the most intuitive computational language model can be implemented in 
 
 ## Resources
 
+- [Char-level language models](https://towardsdatascience.com/character-level-language-model-1439f5dd87fe)
+- [word-level language models](https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/)
+- -[N-Gram language model](https://www.rev.com/blog/resources/understanding-n-gram-language-models)
+- [Language modeling with nltk](https://medium.com/swlh/language-modelling-with-nltk-20eac7e70853)
+
