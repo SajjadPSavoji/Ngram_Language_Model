@@ -1,7 +1,7 @@
 # word-lever vs Char-level Ngram Language Models
 
-N-Gram as the most intuitive computational language model can be implemented in the word-level or the char-leverl while having freedom-of-choice in terms of the N variable. In this project a fair comparision of uni-gram and bi-gram models in the word and charachter level. 
-![Ngram gif](https://github.com/SajjadPSavoji/Ngram_Language_Model/blob/main/Presentation1.gif)
+N-Gram as the most intuitive computational language model can be implemented in the word-level or the char-leverl while having freedom-of-choice in terms of the N variable. In this project a fair comparision of uni-gram and bi-gram models in the word and charachter level. <br>
+![Ngram gif](https://github.com/SajjadPSavoji/Ngram_Language_Model/blob/main/ezgif.com-gif-maker.gif)
 ## Results
 
 <table>
